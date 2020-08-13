@@ -1,2 +1,2 @@
-# 1stWebsiteBuild
-Building out my first landing page with VS Code
+# 1st Website Build
+Building out my first landing page with VS Code using HTML5/CSS3/JavaScript
